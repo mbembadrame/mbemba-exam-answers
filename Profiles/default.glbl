@@ -11,12 +11,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
+      <initValue>'mbembadrame@hotmail.fr'</initValue>
       <name>loginUsername</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>''</initValue>
+      <initValue>'12345'</initValue>
       <name>loginPassword</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
